@@ -11,6 +11,11 @@ a { color:blue; text-decoration: none;}
     border-top: solid 1px #cdcdcd;
     border-bottom: solid 1px #cdcdcd;
 }
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
 .content {
     max-width: 1440px;
     margin: auto;
@@ -33,6 +38,51 @@ a { color:blue; text-decoration: none;}
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
+.logo{
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
 figure {
     text-align: center;
 }
+
+       
+.color-row-1{
+    background-color:#6301EB;
+    
+}
+.color-row-2{
+    background-color: #59efd5;
+
+}
+.color-row-3{
+    background-color: #81102E;
+
+}
+.color-row-4{
+    background-color: #3D8D6C;
+    
+}
+.color-row-5{
+    background-color: #CF2D3A;
+    
+}
+.color-row-6{
+    background-color: #B86173;
+    
+}
+.color-row-7{
+    background-color: #2C1CF5;   
+}
+.color-row-8{
+    background-color: #C0F82F;
+    
+}
+
+.table-episodios{
+    margin: 0 auto; 
+    text-align: center;
+    
+}
+
